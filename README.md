@@ -18,3 +18,8 @@ I used Create React App to make it and also Express Framework to run server.
 I used Mongo DB Atlas to create database. 
 
 To provide better UX I used MUI The React component library. 
+
+## How to Run project 
+
+Go to the main directory and run npm run start - to run server 
+Go to the client folder and run npm run start to run Web App
