@@ -7,7 +7,7 @@
 
 This project was made to learn MERN staff connecting React Web App with Node.js and Database in Mongo DB 
 
-#### Working Web App you can see here: https://recruitment-task-wpruchnicki-1.herokuapp.com/ 
+#### Working Web App you can see here: https://event-app-wpr.herokuapp.com/ 
 
 ## Features: 
 - You can add event to the database and delete it form there 
